@@ -1,5 +1,5 @@
 # Aleksandar's Website
-|  [Projects](AleksandarKostovic.github.io/projects.md) |
+|  [Projects](projects.md) |
 
 Hello everyone! 
 
