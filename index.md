@@ -1,5 +1,5 @@
 # Aleksandar's Website
-|  [Projects](./projets.md) |
+|  [Projects](../projets.md) |
 
 Hello everyone! 
 
