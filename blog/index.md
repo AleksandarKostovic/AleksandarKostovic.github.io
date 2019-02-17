@@ -1,3 +1,3 @@
 # Aleksandar's blog
 
-Posts
+Personal blog
