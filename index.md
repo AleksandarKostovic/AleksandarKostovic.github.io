@@ -10,3 +10,4 @@ Stuff i am interested in:
 - Artificial intelligence
 - VLSI design(Verilog, SystemVerilog)
 - System Modeling using SystemC
+- FPGA design
