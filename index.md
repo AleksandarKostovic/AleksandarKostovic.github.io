@@ -11,3 +11,8 @@ Stuff i am interested in:
 - VLSI design(Verilog, SystemVerilog)
 - System Modeling using SystemC
 - FPGA design
+
+
+# Contact
+
+You can contact me at `alexandar.kostovic@gmail.com`
