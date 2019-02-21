@@ -8,9 +8,9 @@ My name is Aleksandar. I am self-taught EE who likes spending time reading, writ
 Stuff i am interested in:
 - Parallel programming
 - Artificial intelligence
-- VLSI design(Verilog, SystemVerilog)
+- VLSI design
 - System Modeling using SystemC
-- FPGA design
+- FPGA design(Verilog, SystemVerilog)
 
 
 # Contact
