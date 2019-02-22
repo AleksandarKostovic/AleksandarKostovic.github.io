@@ -1,4 +1,4 @@
-Some of the projects i have been working. Expect to see more of them in the future
+Some of the projects i have been working. More are coming soon!
  
  |Project name | Description|
  | ----------- | ----------:|
