@@ -6,11 +6,12 @@ Hello everyone!
 My name is Aleksandar. I am self-taught EE who likes spending time reading, writing code and playing with hardware.
 
 Stuff i am interested in:
+- Quantum COmputing
 - Parallel programming
 - Machine Learning
 - VLSI design
-- System Modeling using SystemC
-- FPGA design(Verilog, SystemVerilog)
+- System Modeling
+- FPGA design
 
 
 # Contact
