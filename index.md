@@ -1,5 +1,4 @@
 # Aleksandar's Website
-[Blog](blog/index.md)
 
 Hello everyone! 
 
@@ -27,3 +26,5 @@ Stuff i am interested in:
 # Contact
 
 You can contact me at `alexandar.kostovic@gmail.com`
+
+[>>Blog](blog/index.md)
