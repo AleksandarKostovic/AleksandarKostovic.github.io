@@ -15,6 +15,8 @@ Stuff i am interested in:
 
 # Projects
 
+Projects i have worked on so far
+
  |Project name | Description|
  | ----------- | ----------:|
  |[LightningQ](https://github.com/AleksandarKostovic/LightningQ)| BluePrint for building Optical Quantum Computers|
