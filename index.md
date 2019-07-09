@@ -15,7 +15,7 @@ Stuff i am interested in:
 
 # Projects
 
-Projects i have worked on so far
+Projects i have worked on so far:
 
  |Project name | Description|
  | ----------- | ----------:|
