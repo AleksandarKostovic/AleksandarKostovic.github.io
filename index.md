@@ -3,10 +3,10 @@
 Hello everyone! 
 
 My name is Aleksandar. I am self-taught EE who likes spending time reading, writing code and playing with hardware.
-
-Stuff i am interested in:
+Areas i am interested in:
 - Quantum Computing
 - Parallel programming
+- Neuromorphic Computing
 - Machine Learning
 - VLSI design
 - System Modeling
