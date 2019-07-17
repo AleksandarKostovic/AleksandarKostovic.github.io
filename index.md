@@ -28,6 +28,6 @@ Projects i have worked on so far:
 
 # Contact
 
-You can contact me at `alexandar.kostovic at gmail.com`
+You can contact me at `alexandar.kostovic@gmail.com`
 
 [>>Blog](blog/index.md)
