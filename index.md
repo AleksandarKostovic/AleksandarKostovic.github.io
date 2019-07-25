@@ -9,7 +9,7 @@ Research areas i am interested in:
 - Neuromorphic Computing
 - Machine Learning
 - VLSI design
-- System Modeling
+- Systems Modeling
 - FPGA design
 
 
