@@ -1,5 +1,5 @@
 # Aleksandar's blog
 
-Personal blog for lots of things i work on!
+Personal blog for things i work on!
 
 More to come soon...
